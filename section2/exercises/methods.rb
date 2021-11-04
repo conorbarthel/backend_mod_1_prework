@@ -12,21 +12,33 @@ print_name
 
 # Write a method that takes a name as an argument and prints it:
 def print_name(name)
-  # YOUR CODE HERE
+  puts "#{name}"
 end
 
 print_name("Albus Dumbledore")
 
-# Write a method that takes in 2 numbers as arguments and prints 
+# Write a method that takes in 2 numbers as arguments and prints
 # their sum. Then call your method three times with different arguments passed in:
-# YOUR CODE HERE
+def sum(a, b)
+  puts a + b
+end
 
-# Write a method that takes in two strings as arguments and prints 
-# a concatenation of those two strings. Example: The arguments could be 
-# (man, woman) and the end result might output: "When Harry Met Sally".  
-# Then call your method three times with different arguments passed in. 
+sum(10, 5)
+sum(4, 3)
+sum(8, 123)
 
+# Write a method that takes in two strings as arguments and prints
+# a concatenation of those two strings. Example: The arguments could be
+# (man, woman) and the end result might output: "When Harry Met Sally".
+# Then call your method three times with different arguments passed in.
 
+def combine_strings(string_1, string_2)
+  puts "#{string_1} #{string_2}"
+end
+
+combine_strings("yes", "no")
+combine_strings("hot", "cold")
+combine_strings("in", "out")
 #-------------------
 # PART 3: Naming is Hard
 #-------------------
@@ -38,4 +50,7 @@ print_name("Albus Dumbledore")
 # What did you name each parameter, and why?
 
 # EXPLAIN:
-
+#I named the method "combine_strings" which describes what the method is doing in as few characters
+#as possible while maintaining its meaning.
+#I names the parameters string_1 and string_2 to be clear what kind of data the method is asking for.
+end
