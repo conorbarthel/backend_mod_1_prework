@@ -32,7 +32,7 @@ class Dog
     @is_happy = true
   end
 
-  def give_pets
+  def pet_dog
     @is_happy = true
   end
 

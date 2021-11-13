@@ -50,7 +50,7 @@ combine_strings("in", "out")
 # What did you name each parameter, and why?
 
 # EXPLAIN:
-#I named the method "combine_strings" which describes what the method is doing in as few characters
-#as possible while maintaining its meaning.
-#I names the parameters string_1 and string_2 to be clear what kind of data the method is asking for.
+"I named the method 'combine_strings' which describes what the method is doing in as few characters
+as possible while maintaining its meaning."
+"I named the parameters 'string_1' and 'string_2' to be clear what kind of data the method is asking for."
 end
