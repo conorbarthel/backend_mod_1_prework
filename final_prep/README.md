@@ -31,8 +31,7 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 - [ ] Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
-
-- `![Screen Shot 2021-11-13 at 9 39 14 AM](https://user-images.githubusercontent.com/93230542/141659554-0304455e-0596-483a-8319-1b5343c4837c.png)`
+![Screen Shot 2021-11-13 at 9 39 14 AM](https://user-images.githubusercontent.com/93230542/141659687-8ae4e919-cba5-4ef7-a26a-3e4eed1d8e25.png)- `![Screen Shot 2021-11-13 at 9 39 14 AM](https://user-images.githubusercontent.com/93230542/141659610-51d89915-404b-4165-abba-868db4f806ae.png)`
 - ``
 - ``
 
